@@ -24,7 +24,7 @@ With 2 years of experience across modern web technologies, I specialize in build
 
 ### <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ahsanatta96"><img src="https://github-readme-stats.vercel.app/api?username=ahsanatta96&theme=ocean_dark" /></a>
+<a href="http://www.github.com/ahsanatta96"><img src="https://github-readme-stats-pmx9.vercel.app/api?username=ahsanatta96&theme=ocean_dark" /></a>
 
 <a href="http://www.github.com/ahsanatta96"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanatta96&theme=ocean_dark" /></a>
 
