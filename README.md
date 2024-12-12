@@ -1,4 +1,4 @@
-Hi 👋 My name is Ahsan Atta
+Hi 👋, I am Ahsan Atta
 ===========================
 
 Full-Stack Developer
