@@ -1,10 +1,11 @@
 Hi 👋, I am Ahsan Atta
 ===========================
 
-Full-Stack Developer
+MERN Stack Developer
 --------------------
 
-With 2 years of experience across modern web technologies, I specialize in building scalable, efficient, and user-friendly applications. My tech stack includes: Frontend: ReactJS, NextJS, Tailwind CSS Backend: NodeJS, ExpressJS, NestJS Databases: MongoDB, MySQL, PostgreSQL DevOps & Platforms: Linux, AWS, Docker Version Control: Git, GitHub Languages & Tools: JavaScript, TypeScript, Prisma, SQL, Mongoose With a passion for solving challenging problems and delivering seamless user experiences, I strive to create efficient and maintainable solutions. Open to collaboration and always excited to learn new technologies! 🚀
+Passionate back-end developer with 2 years of experience, specializing in crafting efficient and scalable server-side applications. Utilizes robust problem-solving skills to optimize database performance and ensure seamless integration. Strong understanding of collaborating with cross-functional teams to deliver
+impactful solutions. 🚀
 
 * 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [ahsanatta96@gmail.com](mailto:ahsanatta96@gmail.com)
