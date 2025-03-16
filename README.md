@@ -4,7 +4,7 @@ Hi 👋, I am Ahsan Atta
 MERN Stack Developer
 --------------------
 
-Passionate MERN Stack Developer with 2 years of experience, specializing in crafting efficient and scalable server-side applications. Utilizes robust problem-solving skills to optimize database performance and ensure seamless integration. Strong understanding of collaborating with cross-functional teams to deliver
+Passionate MERN Stack Developer with 5 years of experience, specializing in crafting efficient and scalable server-side applications. Utilizes robust problem-solving skills to optimize database performance and ensure seamless integration. Strong understanding of collaborating with cross-functional teams to deliver
 impactful solutions. 🚀
 
 * 🌍  I'm based in Lahore, Pakistan
