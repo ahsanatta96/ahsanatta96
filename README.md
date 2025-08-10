@@ -28,6 +28,8 @@ impactful solutions. 🚀
 
 <a href="http://www.github.com/ahsanatta96"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanatta96&theme=ocean_dark" /></a>
 
-<a href="https://github.com/ahsanatta96" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanatta96&theme=ocean_dark
-&card_width=450px" /></a>
+<a href="https://github.com/ahsanatta96" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanatta96&theme=ocean_dark&card_width=450" />
+</a>
+
 
