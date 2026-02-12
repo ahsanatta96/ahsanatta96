@@ -4,12 +4,25 @@ Hi 👋, I am Ahsan Atta
 MERN Stack Developer
 --------------------
 
-Passionate MERN Stack Developer with 5 years of experience, specializing in crafting efficient and scalable server-side applications. Utilizes robust problem-solving skills to optimize database performance and ensure seamless integration. Strong understanding of collaborating with cross-functional teams to deliver
-impactful solutions. 🚀
+I am a MERN Stack Developer with a backend-focused full-stack profile and 3+ years of experience building scalable, production-grade web applications for startups and product-driven teams.
+
+My work centers on backend systems, API design, and database architecture using Node.js, NestJS, PostgreSQL, and Prisma, with a strong focus on reliability, performance, and long-term maintainability.
+
+I have contributed to fintech platforms, real estate marketplaces, accounting systems, and on-demand delivery solutions, working in environments where data integrity, scalability, and clean architecture directly affect business outcomes.
+
+As a MERN Stack Developer, my responsibilities typically include:
+- Designing and building scalable REST APIs and backend services
+- Relational database modeling and SQL query optimization
+- Backend-heavy full-stack features using React and Next.js
+- Authentication, payment integrations, and third-party APIs
+- Cloud deployment and CI/CD workflows on AWS
+
+I prefer working on systems that need to evolve and support real business growth. My engineering decisions are guided by both technical constraints and product requirements, resulting in solutions that remain stable and extensible.
+
+Currently open to remote product roles and working with startups as a freelance or contract engineer, particularly on backend-heavy MERN applications and early-stage product builds.
 
 * 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [ahsanatta96@gmail.com](mailto:ahsanatta96@gmail.com)
-* 🧠  I'm learning advanced database and back-end concepts (database indexing, caching strategies, CQRS). 🚀
 
 ### Skills
 
