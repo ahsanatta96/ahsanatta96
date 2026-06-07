@@ -1,27 +1,22 @@
-Hi 👋, I am Ahsan Atta
-===========================
+## Ahsan Atta
+**Backend Engineer / System Architect**
 
-MERN Stack Developer
---------------------
+Building production backend systems for fintech, SaaS, and
+marketplaces where reliability has business cost.
 
-I am a MERN Stack Developer with a backend-focused full-stack profile and 3+ years of experience building scalable, production-grade web applications for startups and product-driven teams.
+**Core stack:** NestJS · TypeScript · PostgreSQL · Prisma · AWS
 
-My work centers on backend systems, API design, and database architecture using Node.js, NestJS, PostgreSQL, and Prisma, with a strong focus on reliability, performance, and long-term maintainability.
+**Production experience:**
+- 250+ APIs across fintech, wallet, agent, and merchant workflows
+- Systems serving 300K+ active users
+- 50% API latency reduction through indexing and query optimization
+- AWS KMS encryption, HMAC-SHA256 auth, RBAC, JWT refresh flows
+- Docker · ECS · EC2 · GitHub Actions CI/CD
 
-I have contributed to fintech platforms, real estate marketplaces, accounting systems, and on-demand delivery solutions, working in environments where data integrity, scalability, and clean architecture directly affect business outcomes.
+Currently building KashyBee, an enterprise fintech platform, as
+sole engineer across the full stack.
 
-As a MERN Stack Developer, my responsibilities typically include:
-- Designing and building scalable REST APIs and backend services
-- Relational database modeling and SQL query optimization
-- Backend-heavy full-stack features using React and Next.js
-- Authentication, payment integrations, and third-party APIs
-- Cloud deployment and CI/CD workflows on AWS
-
-I prefer working on systems that need to evolve and support real business growth. My engineering decisions are guided by both technical constraints and product requirements, resulting in solutions that remain stable and extensible.
-
-Currently open to remote product roles and working with startups as a freelance or contract engineer, particularly on backend-heavy MERN applications and early-stage product builds.
-
-* 🌍  I'm based in Lahore, Pakistan
+📍 Pakistan · https://ahsanatta.com
 * ✉️  You can contact me at [ahsanatta96@gmail.com](mailto:ahsanatta96@gmail.com)
 
 ### Skills
