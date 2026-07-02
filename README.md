@@ -4,7 +4,8 @@
 Building production backend systems for fintech, SaaS, and marketplaces
 where reliability has a direct business cost.
 
-**Core stack:** NestJS · TypeScript · PostgreSQL · Prisma · AWS
+**Core stack:** Node.js · Express · NestJS · TypeScript · JavaScript ·
+PostgreSQL · MySQL · MongoDB · Redis · Prisma · AWS
 
 **Production experience:**
 - 250+ APIs across fintech, wallet, agent, and merchant workflows
@@ -22,3 +23,15 @@ sole engineer across backend and frontend.
 
 📍 Pakistan · [ahsanatta.com](https://ahsanatta.com)
 ✉️ ahsanatta96@gmail.com
+
+### Skills
+
+JavaScript, TypeScript, Node.js, Express, NestJS, React, Next.js,
+TailwindCSS, PostgreSQL, MySQL, MongoDB, Redis, AWS, Digital Ocean,
+Docker, Git, Vim, Firebase, Linux
+
+### Connect
+
+[GitHub](https://www.github.com/ahsanatta96) ·
+[LinkedIn](https://www.linkedin.com/in/ahsanatta96) ·
+[Stack Overflow](https://www.stackoverflow.com/users/13790235/muhammad-ahsan)
