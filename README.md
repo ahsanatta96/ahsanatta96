@@ -18,9 +18,6 @@ PostgreSQL · MySQL · MongoDB · Redis · Prisma · AWS
 - Also deployed a project on Digital Ocean: Droplet, Spaces,
   MongoDB cluster
 
-Currently building KashyBee, an enterprise fintech platform, as
-sole engineer across backend and frontend.
-
 📍 Pakistan · [ahsanatta.com](https://ahsanatta.com)
 ✉️ ahsanatta96@gmail.com
 
